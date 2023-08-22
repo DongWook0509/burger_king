@@ -1,0 +1,22 @@
+
+/*3*/
+@font-face {
+    font-family: 'dabanggu';
+    font-weight: 400;
+    src: url("../fonts/Typo_DabangguB.16840f6f.woff2") format("woff2")
+}
+
+/*1*/
+@font-face {
+    font-family: 'SDGothic';
+    font-weight: 400;
+    src: url("../fonts/SDGothicNeoRound-fSb.694b1232.woff2") format("woff2");
+}
+
+/*2*/
+@font-face {
+    font-family: 'SDGothic';
+    font-weight: 600;
+    src: url("../fonts/SDGothicNeoRound-hEb.a5bb0953.woff2") format("woff2")
+}
+
